@@ -1,2 +1,2 @@
 # Projeto_banco_dados
-incremento armazenamento de dados a projeto
+Este projeto tem como finalidade mesclar o uso de banco de dados com análise de dados
